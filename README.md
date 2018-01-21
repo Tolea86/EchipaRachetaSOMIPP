@@ -1,5 +1,5 @@
 # EchipaRachetaSOMIPP
-Laboratory Work of Echipa Racheta for SOMIPP Labs
+Laboratory Work of <b><it>Echipa Racheta</it></b> for SOMIPP Labs
 
 ## Made History : 
 Made with blood and tears by : <br/>
