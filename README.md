@@ -6,4 +6,4 @@ Made with blood and tears by : <br/>
 * Iuzvac Anatolie <br/>
 * Stoica Dan-Cristian <br/>
 * Galanciuc Victoria <br/>
-<b>for the best course ever Operation Systems<b/> ❤️
+<b>for the best course ever Operating Systems<b/> ❤️
